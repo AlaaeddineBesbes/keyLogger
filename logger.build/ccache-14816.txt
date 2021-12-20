@@ -1,0 +1,1263 @@
+[2021-12-20T17:50:20.887363 2608 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) base_dir = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) compiler = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) compression = true
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) debug = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) disable = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) file_clone = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) hard_link = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:20.887363 2608 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) max_files = 0
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) path = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) read_only = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) recache = false
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) stats = true
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:20.887363 2608 ] Config: (default) umask = 
+[2021-12-20T17:50:20.887567 2608 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2021-12-20T17:50:20.887732 2608 ] Hostname: unknown
+[2021-12-20T17:50:20.887744 2608 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:20.887752 2608 ] Compiler type: gcc
+[2021-12-20T17:50:20.888088 2608 ] Source file: __constants.c
+[2021-12-20T17:50:20.888104 2608 ] Object file: __constants.o
+[2021-12-20T17:50:20.888252 2608 ] Trying direct lookup
+[2021-12-20T17:50:20.888509 2608 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/3/55p8aqm08j8f4r00du4f3snkkhm5h9oM
+[2021-12-20T17:50:20.893688 13656] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:20.893688 13656] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) base_dir = 
+[2021-12-20T17:50:20.893688 13656] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:20.893688 13656] Config: (default) compiler = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:20.893688 13656] Config: (default) compiler_type = auto
+[2021-12-20T17:50:20.893688 13656] Config: (default) compression = true
+[2021-12-20T17:50:20.893688 13656] Config: (default) compression_level = 0
+[2021-12-20T17:50:20.893688 13656] Config: (default) cpp_extension = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) debug = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) debug_dir = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) depend_mode = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) direct_mode = true
+[2021-12-20T17:50:20.893688 13656] Config: (default) disable = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) file_clone = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) hard_link = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) hash_dir = true
+[2021-12-20T17:50:20.893688 13656] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) ignore_options = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) inode_cache = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:20.893688 13656] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:20.893688 13656] Config: (default) max_files = 0
+[2021-12-20T17:50:20.893688 13656] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:20.893688 13656] Config: (default) path = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) prefix_command = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) read_only = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) read_only_direct = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) recache = false
+[2021-12-20T17:50:20.893688 13656] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:20.893688 13656] Config: (default) sloppiness = 
+[2021-12-20T17:50:20.893688 13656] Config: (default) stats = true
+[2021-12-20T17:50:20.893688 13656] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:20.893688 13656] Config: (default) umask = 
+[2021-12-20T17:50:20.893862 13656] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2021-12-20T17:50:20.893928 13656] Hostname: unknown
+[2021-12-20T17:50:20.893940 13656] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:20.893947 13656] Compiler type: gcc
+[2021-12-20T17:50:20.894218 13656] Source file: __helpers.c
+[2021-12-20T17:50:20.894230 13656] Object file: __helpers.o
+[2021-12-20T17:50:20.894309 13656] Trying direct lookup
+[2021-12-20T17:50:20.894445 13656] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/9/3f0858bhub4aqfbkfavlbb7ejer78qcM
+[2021-12-20T17:50:20.907323 11728] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:20.907323 11728] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) base_dir = 
+[2021-12-20T17:50:20.907323 11728] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:20.907323 11728] Config: (default) compiler = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:20.907323 11728] Config: (default) compiler_type = auto
+[2021-12-20T17:50:20.907323 11728] Config: (default) compression = true
+[2021-12-20T17:50:20.907323 11728] Config: (default) compression_level = 0
+[2021-12-20T17:50:20.907323 11728] Config: (default) cpp_extension = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) debug = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) debug_dir = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) depend_mode = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) direct_mode = true
+[2021-12-20T17:50:20.907323 11728] Config: (default) disable = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) file_clone = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) hard_link = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) hash_dir = true
+[2021-12-20T17:50:20.907323 11728] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) ignore_options = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) inode_cache = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:20.907323 11728] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:20.907323 11728] Config: (default) max_files = 0
+[2021-12-20T17:50:20.907323 11728] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:20.907323 11728] Config: (default) path = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) prefix_command = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) read_only = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) read_only_direct = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) recache = false
+[2021-12-20T17:50:20.907323 11728] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:20.907323 11728] Config: (default) sloppiness = 
+[2021-12-20T17:50:20.907323 11728] Config: (default) stats = true
+[2021-12-20T17:50:20.907323 11728] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:20.907323 11728] Config: (default) umask = 
+[2021-12-20T17:50:20.907502 11728] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2021-12-20T17:50:20.907563 11728] Hostname: unknown
+[2021-12-20T17:50:20.907580 11728] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:20.907592 11728] Compiler type: gcc
+[2021-12-20T17:50:20.907929 11728] Source file: __loader.c
+[2021-12-20T17:50:20.907946 11728] Object file: __loader.o
+[2021-12-20T17:50:20.908036 11728] Trying direct lookup
+[2021-12-20T17:50:20.908334 11728] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/286mugrbeerniuvbh0uusk18g81tr9sM
+[2021-12-20T17:50:20.921648 11728] Got result name from manifest
+[2021-12-20T17:50:20.921748 11728] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/e/18cmb19ke166cabdul3s8o7nkgpjsiuR
+[2021-12-20T17:50:20.922058 11728] Reading embedded entry #0 .o (43814 bytes)
+[2021-12-20T17:50:20.922083 11728] Writing to __loader.o
+[2021-12-20T17:50:20.922723 11728] Succeeded getting cached result
+[2021-12-20T17:50:20.922762 11728] Result: cache hit (direct)
+[2021-12-20T17:50:20.923051 11728] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/e/stats.lock
+[2021-12-20T17:50:20.924950 11728] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/e/stats.lock
+[2021-12-20T17:50:20.926394 2608 ] Got result name from manifest
+[2021-12-20T17:50:20.926497 2608 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/c42himd31bqru34m4gob2o9t7q8m0oeR
+[2021-12-20T17:50:20.926702 2608 ] Reading embedded entry #0 .o (2735 bytes)
+[2021-12-20T17:50:20.926723 2608 ] Writing to __constants.o
+[2021-12-20T17:50:20.927367 2608 ] Succeeded getting cached result
+[2021-12-20T17:50:20.927403 2608 ] Result: cache hit (direct)
+[2021-12-20T17:50:20.927651 2608 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/stats.lock
+[2021-12-20T17:50:20.929591 2608 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/stats.lock
+[2021-12-20T17:50:20.934081 6160 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) base_dir = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) compiler = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) compression = true
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) debug = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) disable = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) file_clone = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) hard_link = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:20.934081 6160 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) max_files = 0
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) path = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) read_only = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) recache = false
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) stats = true
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:20.934081 6160 ] Config: (default) umask = 
+[2021-12-20T17:50:20.934350 6160 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2021-12-20T17:50:20.934438 6160 ] Hostname: unknown
+[2021-12-20T17:50:20.934460 6160 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:20.934474 6160 ] Compiler type: gcc
+[2021-12-20T17:50:20.934876 6160 ] Source file: module.__main__.c
+[2021-12-20T17:50:20.934897 6160 ] Object file: module.__main__.o
+[2021-12-20T17:50:20.935003 6160 ] Trying direct lookup
+[2021-12-20T17:50:20.935589 6160 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/58e372hsrndg5t502ujgu8d96saqk4qM
+[2021-12-20T17:50:20.938160 13656] Got result name from manifest
+[2021-12-20T17:50:20.938275 13656] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/39k1s7dehbt8p70fokkuhd9nujea9giR
+[2021-12-20T17:50:20.938459 13656] Reading embedded entry #0 .o (466 bytes)
+[2021-12-20T17:50:20.938481 13656] Writing to __helpers.o
+[2021-12-20T17:50:20.939099 13656] Succeeded getting cached result
+[2021-12-20T17:50:20.939136 13656] Result: cache hit (direct)
+[2021-12-20T17:50:20.939403 13656] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/stats.lock
+[2021-12-20T17:50:20.941199 13656] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/stats.lock
+[2021-12-20T17:50:20.967825 8624 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) base_dir = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) compiler = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) compression = true
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) debug = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) disable = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) file_clone = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) hard_link = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:20.967825 8624 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) max_files = 0
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) path = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) read_only = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) recache = false
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) stats = true
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:20.967825 8624 ] Config: (default) umask = 
+[2021-12-20T17:50:20.967961 8624 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput._util.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput._util.c
+[2021-12-20T17:50:20.968016 8624 ] Hostname: unknown
+[2021-12-20T17:50:20.968028 8624 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:20.968037 8624 ] Compiler type: gcc
+[2021-12-20T17:50:20.968321 8624 ] Source file: module.pynput._util.c
+[2021-12-20T17:50:20.968333 8624 ] Object file: module.pynput._util.o
+[2021-12-20T17:50:20.968403 8624 ] Trying direct lookup
+[2021-12-20T17:50:20.969131 8624 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/0/7c8mvka2g1glpgjn6sb6fulh8p8v3nmM
+[2021-12-20T17:50:20.976025 6160 ] Got result name from manifest
+[2021-12-20T17:50:20.976117 6160 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/e/4ev9pdi7p7ol8i5h5t0ipj8rn2d51aoR
+[2021-12-20T17:50:20.976612 6160 ] Reading embedded entry #0 .o (79322 bytes)
+[2021-12-20T17:50:20.976637 6160 ] Writing to module.__main__.o
+[2021-12-20T17:50:20.977412 6160 ] Succeeded getting cached result
+[2021-12-20T17:50:20.977444 6160 ] Result: cache hit (direct)
+[2021-12-20T17:50:20.977679 6160 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/e/stats.lock
+[2021-12-20T17:50:20.979007 6160 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/e/stats.lock
+[2021-12-20T17:50:20.999136 8576 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) base_dir = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) compiler = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) compression = true
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) debug = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) disable = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) file_clone = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) hard_link = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:20.999136 8576 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) max_files = 0
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) path = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) read_only = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) recache = false
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) stats = true
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:20.999136 8576 ] Config: (default) umask = 
+[2021-12-20T17:50:20.999271 8576 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput._util.win32.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput._util.win32.c
+[2021-12-20T17:50:20.999312 8576 ] Hostname: unknown
+[2021-12-20T17:50:20.999326 8576 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:20.999335 8576 ] Compiler type: gcc
+[2021-12-20T17:50:20.999640 8576 ] Source file: module.pynput._util.win32.c
+[2021-12-20T17:50:20.999654 8576 ] Object file: module.pynput._util.win32.o
+[2021-12-20T17:50:20.999739 8576 ] Trying direct lookup
+[2021-12-20T17:50:21.000772 8576 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/4/1flri3lp16l1fgluskobssf7jef3746M
+[2021-12-20T17:50:21.004755 8624 ] Got result name from manifest
+[2021-12-20T17:50:21.004832 8624 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/0/95nju67mveb4ke0johpfskk7s2o1aegR
+[2021-12-20T17:50:21.005213 8624 ] Reading embedded entry #0 .o (184209 bytes)
+[2021-12-20T17:50:21.005230 8624 ] Writing to module.pynput._util.o
+[2021-12-20T17:50:21.006082 8624 ] Succeeded getting cached result
+[2021-12-20T17:50:21.006117 8624 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.006313 8624 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/0/stats.lock
+[2021-12-20T17:50:21.008120 8624 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/0/stats.lock
+[2021-12-20T17:50:21.021875 12636] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.021875 12636] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) base_dir = 
+[2021-12-20T17:50:21.021875 12636] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.021875 12636] Config: (default) compiler = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.021875 12636] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.021875 12636] Config: (default) compression = true
+[2021-12-20T17:50:21.021875 12636] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.021875 12636] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) debug = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.021875 12636] Config: (default) disable = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) file_clone = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) hard_link = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.021875 12636] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.021875 12636] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.021875 12636] Config: (default) max_files = 0
+[2021-12-20T17:50:21.021875 12636] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.021875 12636] Config: (default) path = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) read_only = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) recache = false
+[2021-12-20T17:50:21.021875 12636] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.021875 12636] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.021875 12636] Config: (default) stats = true
+[2021-12-20T17:50:21.021875 12636] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.021875 12636] Config: (default) umask = 
+[2021-12-20T17:50:21.022021 12636] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput._util.win32_vks.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput._util.win32_vks.c
+[2021-12-20T17:50:21.022082 12636] Hostname: unknown
+[2021-12-20T17:50:21.022095 12636] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.022103 12636] Compiler type: gcc
+[2021-12-20T17:50:21.022379 12636] Source file: module.pynput._util.win32_vks.c
+[2021-12-20T17:50:21.022393 12636] Object file: module.pynput._util.win32_vks.o
+[2021-12-20T17:50:21.022470 12636] Trying direct lookup
+[2021-12-20T17:50:21.022672 12636] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/d7lv6va0tm08qnmiq56jq4kk2d83tesM
+[2021-12-20T17:50:21.036466 11360] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.036466 11360] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) base_dir = 
+[2021-12-20T17:50:21.036466 11360] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.036466 11360] Config: (default) compiler = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.036466 11360] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.036466 11360] Config: (default) compression = true
+[2021-12-20T17:50:21.036466 11360] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.036466 11360] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) debug = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.036466 11360] Config: (default) disable = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) file_clone = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) hard_link = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.036466 11360] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.036466 11360] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.036466 11360] Config: (default) max_files = 0
+[2021-12-20T17:50:21.036466 11360] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.036466 11360] Config: (default) path = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) read_only = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) recache = false
+[2021-12-20T17:50:21.036466 11360] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.036466 11360] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.036466 11360] Config: (default) stats = true
+[2021-12-20T17:50:21.036466 11360] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.036466 11360] Config: (default) umask = 
+[2021-12-20T17:50:21.036654 11360] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput.c
+[2021-12-20T17:50:21.036731 11360] Hostname: unknown
+[2021-12-20T17:50:21.036749 11360] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.036762 11360] Compiler type: gcc
+[2021-12-20T17:50:21.037118 11360] Source file: module.pynput.c
+[2021-12-20T17:50:21.037138 11360] Object file: module.pynput.o
+[2021-12-20T17:50:21.037241 11360] Trying direct lookup
+[2021-12-20T17:50:21.037455 11360] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/3eqo6fbui2854j03vojrptlp2uhi9aaM
+[2021-12-20T17:50:21.039298 8576 ] Got result name from manifest
+[2021-12-20T17:50:21.039400 8576 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/7/f3ret69v5842h48ecs0rnckseps5vu6R
+[2021-12-20T17:50:21.039953 8576 ] Reading embedded entry #0 .o (222019 bytes)
+[2021-12-20T17:50:21.039980 8576 ] Writing to module.pynput._util.win32.o
+[2021-12-20T17:50:21.041445 8576 ] Succeeded getting cached result
+[2021-12-20T17:50:21.041486 8576 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.041737 8576 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/7/stats.lock
+[2021-12-20T17:50:21.043229 8576 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/7/stats.lock
+[2021-12-20T17:50:21.061606 12636] Got result name from manifest
+[2021-12-20T17:50:21.061688 12636] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/69e8ar5b60kb23m7q8fdelg88kht54gR
+[2021-12-20T17:50:21.061911 12636] Reading embedded entry #0 .o (15124 bytes)
+[2021-12-20T17:50:21.061933 12636] Writing to module.pynput._util.win32_vks.o
+[2021-12-20T17:50:21.062569 12636] Succeeded getting cached result
+[2021-12-20T17:50:21.062602 12636] Result: cache hit (direct)
+[2021-12-20T17:50:21.062830 12636] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/stats.lock
+[2021-12-20T17:50:21.064578 12636] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/stats.lock
+[2021-12-20T17:50:21.073455 11360] Got result name from manifest
+[2021-12-20T17:50:21.073534 11360] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/d4afvf8s0n5haqg07jp9oh76dmj5p6iR
+[2021-12-20T17:50:21.073808 11360] Reading embedded entry #0 .o (13383 bytes)
+[2021-12-20T17:50:21.073834 11360] Writing to module.pynput.o
+[2021-12-20T17:50:21.074397 11360] Succeeded getting cached result
+[2021-12-20T17:50:21.074430 11360] Result: cache hit (direct)
+[2021-12-20T17:50:21.074627 11360] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/stats.lock
+[2021-12-20T17:50:21.076391 11360] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/stats.lock
+[2021-12-20T17:50:21.088036 5996 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) compression = true
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) debug = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) disable = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.088036 5996 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) path = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) recache = false
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) stats = true
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.088036 5996 ] Config: (default) umask = 
+[2021-12-20T17:50:21.088215 5996 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput.keyboard._base.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput.keyboard._base.c
+[2021-12-20T17:50:21.088265 5996 ] Hostname: unknown
+[2021-12-20T17:50:21.088277 5996 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.088284 5996 ] Compiler type: gcc
+[2021-12-20T17:50:21.088542 5996 ] Source file: module.pynput.keyboard._base.c
+[2021-12-20T17:50:21.088554 5996 ] Object file: module.pynput.keyboard._base.o
+[2021-12-20T17:50:21.088621 5996 ] Trying direct lookup
+[2021-12-20T17:50:21.089621 5996 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/6aa2jv9vj67tptkr68l56ffbl6do5g2M
+[2021-12-20T17:50:21.109614 9024 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) compression = true
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) debug = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) disable = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.109614 9024 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) path = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) recache = false
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) stats = true
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.109614 9024 ] Config: (default) umask = 
+[2021-12-20T17:50:21.109792 9024 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput.keyboard._win32.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput.keyboard._win32.c
+[2021-12-20T17:50:21.109857 9024 ] Hostname: unknown
+[2021-12-20T17:50:21.109876 9024 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.109888 9024 ] Compiler type: gcc
+[2021-12-20T17:50:21.110250 9024 ] Source file: module.pynput.keyboard._win32.c
+[2021-12-20T17:50:21.110266 9024 ] Object file: module.pynput.keyboard._win32.o
+[2021-12-20T17:50:21.110353 9024 ] Trying direct lookup
+[2021-12-20T17:50:21.111343 9024 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/4/fefpqpmpimuoid0n82lhi6kgb7m2c92M
+[2021-12-20T17:50:21.123570 5996 ] Got result name from manifest
+[2021-12-20T17:50:21.123653 5996 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/e/6enq0si26e67d3i1dvn1vodtc5182o4R
+[2021-12-20T17:50:21.124000 5996 ] Reading embedded entry #0 .o (192739 bytes)
+[2021-12-20T17:50:21.124017 5996 ] Writing to module.pynput.keyboard._base.o
+[2021-12-20T17:50:21.125141 5996 ] Succeeded getting cached result
+[2021-12-20T17:50:21.125182 5996 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.125480 5996 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/e/stats.lock
+[2021-12-20T17:50:21.127572 5996 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/e/stats.lock
+[2021-12-20T17:50:21.130209 15144] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.130209 15144] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) base_dir = 
+[2021-12-20T17:50:21.130209 15144] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.130209 15144] Config: (default) compiler = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.130209 15144] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.130209 15144] Config: (default) compression = true
+[2021-12-20T17:50:21.130209 15144] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.130209 15144] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) debug = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.130209 15144] Config: (default) disable = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) file_clone = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) hard_link = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.130209 15144] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.130209 15144] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.130209 15144] Config: (default) max_files = 0
+[2021-12-20T17:50:21.130209 15144] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.130209 15144] Config: (default) path = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) read_only = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) recache = false
+[2021-12-20T17:50:21.130209 15144] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.130209 15144] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.130209 15144] Config: (default) stats = true
+[2021-12-20T17:50:21.130209 15144] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.130209 15144] Config: (default) umask = 
+[2021-12-20T17:50:21.130445 15144] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput.keyboard.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput.keyboard.c
+[2021-12-20T17:50:21.130521 15144] Hostname: unknown
+[2021-12-20T17:50:21.130539 15144] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.130551 15144] Compiler type: gcc
+[2021-12-20T17:50:21.130928 15144] Source file: module.pynput.keyboard.c
+[2021-12-20T17:50:21.130946 15144] Object file: module.pynput.keyboard.o
+[2021-12-20T17:50:21.131045 15144] Trying direct lookup
+[2021-12-20T17:50:21.131884 15144] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/d/6cett7ndsi4d7kvhou0dnvnncc9sfk6M
+[2021-12-20T17:50:21.154272 15804] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.154272 15804] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) base_dir = 
+[2021-12-20T17:50:21.154272 15804] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.154272 15804] Config: (default) compiler = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.154272 15804] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.154272 15804] Config: (default) compression = true
+[2021-12-20T17:50:21.154272 15804] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.154272 15804] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) debug = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.154272 15804] Config: (default) disable = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) file_clone = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) hard_link = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.154272 15804] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.154272 15804] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.154272 15804] Config: (default) max_files = 0
+[2021-12-20T17:50:21.154272 15804] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.154272 15804] Config: (default) path = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) read_only = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) recache = false
+[2021-12-20T17:50:21.154272 15804] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.154272 15804] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.154272 15804] Config: (default) stats = true
+[2021-12-20T17:50:21.154272 15804] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.154272 15804] Config: (default) umask = 
+[2021-12-20T17:50:21.154465 15804] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput.mouse._base.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput.mouse._base.c
+[2021-12-20T17:50:21.154516 15804] Hostname: unknown
+[2021-12-20T17:50:21.154533 15804] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.154545 15804] Compiler type: gcc
+[2021-12-20T17:50:21.154834 15804] Source file: module.pynput.mouse._base.c
+[2021-12-20T17:50:21.154860 15804] Object file: module.pynput.mouse._base.o
+[2021-12-20T17:50:21.154977 15804] Trying direct lookup
+[2021-12-20T17:50:21.155572 15804] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/1/f79lah9inp1j03hpgaq8tji1upsb39qM
+[2021-12-20T17:50:21.157208 9024 ] Got result name from manifest
+[2021-12-20T17:50:21.157306 9024 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/19p2k0cgqj6b6a2s4r53karuujtbi5cR
+[2021-12-20T17:50:21.157698 9024 ] Reading embedded entry #0 .o (187531 bytes)
+[2021-12-20T17:50:21.157722 9024 ] Writing to module.pynput.keyboard._win32.o
+[2021-12-20T17:50:21.158719 9024 ] Succeeded getting cached result
+[2021-12-20T17:50:21.158752 9024 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.159042 9024 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/stats.lock
+[2021-12-20T17:50:21.161138 9024 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/stats.lock
+[2021-12-20T17:50:21.180212 15144] Got result name from manifest
+[2021-12-20T17:50:21.180300 15144] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/dcss39n0pcpqbg41g62bbnlmp0poql4R
+[2021-12-20T17:50:21.180636 15144] Reading embedded entry #0 .o (102643 bytes)
+[2021-12-20T17:50:21.180661 15144] Writing to module.pynput.keyboard.o
+[2021-12-20T17:50:21.181499 15144] Succeeded getting cached result
+[2021-12-20T17:50:21.181534 15144] Result: cache hit (direct)
+[2021-12-20T17:50:21.181855 15144] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/stats.lock
+[2021-12-20T17:50:21.183679 15144] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/stats.lock
+[2021-12-20T17:50:21.184475 1892 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) compression = true
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) debug = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) disable = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.184475 1892 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) path = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) recache = false
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) stats = true
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.184475 1892 ] Config: (default) umask = 
+[2021-12-20T17:50:21.184652 1892 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput.mouse._win32.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput.mouse._win32.c
+[2021-12-20T17:50:21.184681 1892 ] Hostname: unknown
+[2021-12-20T17:50:21.184696 1892 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.184707 1892 ] Compiler type: gcc
+[2021-12-20T17:50:21.185060 1892 ] Source file: module.pynput.mouse._win32.c
+[2021-12-20T17:50:21.185078 1892 ] Object file: module.pynput.mouse._win32.o
+[2021-12-20T17:50:21.185181 1892 ] Trying direct lookup
+[2021-12-20T17:50:21.185900 1892 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/0/9b2mvvuumoffarscd7gqphbhgmq54tiM
+[2021-12-20T17:50:21.195487 15804] Got result name from manifest
+[2021-12-20T17:50:21.195542 15804] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/4foqgurq1mlr2l2kkb0i07hiuoe44haR
+[2021-12-20T17:50:21.195763 15804] Reading embedded entry #0 .o (71323 bytes)
+[2021-12-20T17:50:21.195777 15804] Writing to module.pynput.mouse._base.o
+[2021-12-20T17:50:21.196272 15804] Succeeded getting cached result
+[2021-12-20T17:50:21.196293 15804] Result: cache hit (direct)
+[2021-12-20T17:50:21.196443 15804] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/stats.lock
+[2021-12-20T17:50:21.197647 15804] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/stats.lock
+[2021-12-20T17:50:21.216563 1892 ] Got result name from manifest
+[2021-12-20T17:50:21.216630 1892 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/d1ik4p6r3ikrqoeba6or8dk3smnj9s8R
+[2021-12-20T17:50:21.216950 1892 ] Reading embedded entry #0 .o (112827 bytes)
+[2021-12-20T17:50:21.216965 1892 ] Writing to module.pynput.mouse._win32.o
+[2021-12-20T17:50:21.217562 1892 ] Succeeded getting cached result
+[2021-12-20T17:50:21.217584 1892 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.217754 1892 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/stats.lock
+[2021-12-20T17:50:21.219043 1892 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/stats.lock
+[2021-12-20T17:50:21.241740 6724 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) compression = true
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) debug = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) disable = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.241740 6724 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) path = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) recache = false
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) stats = true
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.241740 6724 ] Config: (default) umask = 
+[2021-12-20T17:50:21.241934 6724 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pynput.mouse.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pynput.mouse.c
+[2021-12-20T17:50:21.241990 6724 ] Hostname: unknown
+[2021-12-20T17:50:21.242006 6724 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.242016 6724 ] Compiler type: gcc
+[2021-12-20T17:50:21.242354 6724 ] Source file: module.pynput.mouse.c
+[2021-12-20T17:50:21.242367 6724 ] Object file: module.pynput.mouse.o
+[2021-12-20T17:50:21.242460 6724 ] Trying direct lookup
+[2021-12-20T17:50:21.242783 6724 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/2264aot5dou3t2ibqpngcspcn0oq402M
+[2021-12-20T17:50:21.261688 3860 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) compression = true
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) debug = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) disable = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.261688 3860 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) path = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) recache = false
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) stats = true
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.261688 3860 ] Config: (default) umask = 
+[2021-12-20T17:50:21.261880 3860 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pywin32_bootstrap.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pywin32_bootstrap.c
+[2021-12-20T17:50:21.261954 3860 ] Hostname: unknown
+[2021-12-20T17:50:21.261971 3860 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.261984 3860 ] Compiler type: gcc
+[2021-12-20T17:50:21.262391 3860 ] Source file: module.pywin32_bootstrap.c
+[2021-12-20T17:50:21.262408 3860 ] Object file: module.pywin32_bootstrap.o
+[2021-12-20T17:50:21.262501 3860 ] Trying direct lookup
+[2021-12-20T17:50:21.262760 3860 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/7/120clhtgn9pt0m2c2clgteuj9e6i3a4M
+[2021-12-20T17:50:21.276222 17252] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.276222 17252] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) base_dir = 
+[2021-12-20T17:50:21.276222 17252] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.276222 17252] Config: (default) compiler = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.276222 17252] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.276222 17252] Config: (default) compression = true
+[2021-12-20T17:50:21.276222 17252] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.276222 17252] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) debug = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.276222 17252] Config: (default) disable = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) file_clone = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) hard_link = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.276222 17252] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.276222 17252] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.276222 17252] Config: (default) max_files = 0
+[2021-12-20T17:50:21.276222 17252] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.276222 17252] Config: (default) path = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) read_only = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) recache = false
+[2021-12-20T17:50:21.276222 17252] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.276222 17252] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.276222 17252] Config: (default) stats = true
+[2021-12-20T17:50:21.276222 17252] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.276222 17252] Config: (default) umask = 
+[2021-12-20T17:50:21.276404 17252] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.pywin32_system32.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.pywin32_system32.c
+[2021-12-20T17:50:21.276492 17252] Hostname: unknown
+[2021-12-20T17:50:21.276507 17252] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.276519 17252] Compiler type: gcc
+[2021-12-20T17:50:21.276858 17252] Source file: module.pywin32_system32.c
+[2021-12-20T17:50:21.276875 17252] Object file: module.pywin32_system32.o
+[2021-12-20T17:50:21.276978 17252] Trying direct lookup
+[2021-12-20T17:50:21.277209 17252] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/1/a21clc28jagq8qei1agublfe8hlg8goM
+[2021-12-20T17:50:21.282339 6724 ] Got result name from manifest
+[2021-12-20T17:50:21.282413 6724 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/64g8r9fjs03mtdimcq17apqe65k1jlkR
+[2021-12-20T17:50:21.282635 6724 ] Reading embedded entry #0 .o (41176 bytes)
+[2021-12-20T17:50:21.282659 6724 ] Writing to module.pynput.mouse.o
+[2021-12-20T17:50:21.283413 6724 ] Succeeded getting cached result
+[2021-12-20T17:50:21.283448 6724 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.283698 6724 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/stats.lock
+[2021-12-20T17:50:21.285532 6724 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/stats.lock
+[2021-12-20T17:50:21.302666 3860 ] Got result name from manifest
+[2021-12-20T17:50:21.302746 3860 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/77lq91hb1t4fak45mmggpcbghkc2qn0R
+[2021-12-20T17:50:21.302938 3860 ] Reading embedded entry #0 .o (18292 bytes)
+[2021-12-20T17:50:21.302956 3860 ] Writing to module.pywin32_bootstrap.o
+[2021-12-20T17:50:21.303656 3860 ] Succeeded getting cached result
+[2021-12-20T17:50:21.303689 3860 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.303964 3860 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/stats.lock
+[2021-12-20T17:50:21.305899 3860 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/8/stats.lock
+[2021-12-20T17:50:21.322007 19372] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.322142 17252] Got result name from manifest
+[2021-12-20T17:50:21.322007 19372] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) base_dir = 
+[2021-12-20T17:50:21.322007 19372] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.322007 19372] Config: (default) compiler = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.322007 19372] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.322007 19372] Config: (default) compression = true
+[2021-12-20T17:50:21.322007 19372] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.322007 19372] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) debug = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.322007 19372] Config: (default) disable = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) file_clone = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) hard_link = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.322007 19372] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.322007 19372] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.322007 19372] Config: (default) max_files = 0
+[2021-12-20T17:50:21.322007 19372] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.322007 19372] Config: (default) path = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) read_only = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) recache = false
+[2021-12-20T17:50:21.322007 19372] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.322007 19372] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.322007 19372] Config: (default) stats = true
+[2021-12-20T17:50:21.322007 19372] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.322007 19372] Config: (default) umask = 
+[2021-12-20T17:50:21.322181 19372] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.six.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src module.six.c
+[2021-12-20T17:50:21.322210 19372] Hostname: unknown
+[2021-12-20T17:50:21.322225 17252] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/cdof4h4la[2021-12-20T17:50:21.322237 19372] Compiler type: gcc
+[2021-12-20T17:50:21.322460 17252] Reading embedded entry #0 .o (6373 bytes)
+[2021-12-20T17:50:21.322481 17252] Writing to module.pywin32_system32.o
+[2021-12-20T17:50:21.322618 19372] Source file: module.six.c
+[2021-12-20T17:50:21.322636 19372] Object file: module.six.o
+[2021-12-20T17:50:21.322741 19372] Trying direct lookup
+[2021-12-20T17:50:21.323219 17252] Succeeded getting cached result
+[2021-12-20T17:50:21.323265 17252] Result: cache hit (direct)
+[2021-12-20T17:50:21.323674 17252] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/stats.lock
+[2021-12-20T17:50:21.324951 19372] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/d/33mja0gapdnqc8lmndg6ps3mitivosaM
+[2021-12-20T17:50:21.326184 17252] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/stats.lock
+[2021-12-20T17:50:21.345316 15644] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.345316 15644] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) base_dir = 
+[2021-12-20T17:50:21.345316 15644] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.345316 15644] Config: (default) compiler = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.345316 15644] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.345316 15644] Config: (default) compression = true
+[2021-12-20T17:50:21.345316 15644] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.345316 15644] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) debug = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.345316 15644] Config: (default) disable = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) file_clone = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) hard_link = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.345316 15644] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.345316 15644] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.345316 15644] Config: (default) max_files = 0
+[2021-12-20T17:50:21.345316 15644] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.345316 15644] Config: (default) path = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) read_only = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) recache = false
+[2021-12-20T17:50:21.345316 15644] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.345316 15644] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.345316 15644] Config: (default) stats = true
+[2021-12-20T17:50:21.345316 15644] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.345316 15644] Config: (default) umask = 
+[2021-12-20T17:50:21.345460 15644] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2021-12-20T17:50:21.345520 15644] Hostname: unknown
+[2021-12-20T17:50:21.345533 15644] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.345542 15644] Compiler type: gcc
+[2021-12-20T17:50:21.345816 15644] Source file: static_src\MainProgram.c
+[2021-12-20T17:50:21.345830 15644] Object file: static_src\MainProgram.o
+[2021-12-20T17:50:21.345904 15644] Trying direct lookup
+[2021-12-20T17:50:21.346084 15644] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/e1e79ihoh05q25riapcu581gsr1igdcM
+[2021-12-20T17:50:21.353315 4468 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) compression = true
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) debug = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) disable = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.353315 4468 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) path = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) recache = false
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) stats = true
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.353315 4468 ] Config: (default) umask = 
+[2021-12-20T17:50:21.353447 4468 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-12-20T17:50:21.353499 4468 ] Hostname: unknown
+[2021-12-20T17:50:21.353512 4468 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.353520 4468 ] Compiler type: gcc
+[2021-12-20T17:50:21.353776 4468 ] Source file: static_src\CompiledCellType.c
+[2021-12-20T17:50:21.353787 4468 ] Object file: static_src\CompiledCellType.o
+[2021-12-20T17:50:21.353859 4468 ] Trying direct lookup
+[2021-12-20T17:50:21.354019 4468 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/9/4av52q9tossbf86kosqokt749bq4h0iM
+[2021-12-20T17:50:21.364067 19372] Got result name from manifest
+[2021-12-20T17:50:21.364146 19372] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/48m6520qjbd7rlnksdidk8dgm448020R
+[2021-12-20T17:50:21.364503 19372] Reading embedded entry #0 .o (311490 bytes)
+[2021-12-20T17:50:21.364520 19372] Writing to module.six.o
+[2021-12-20T17:50:21.365706 19372] Succeeded getting cached result
+[2021-12-20T17:50:21.365739 19372] Result: cache hit (direct)
+[2021-12-20T17:50:21.365941 19372] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/stats.lock
+[2021-12-20T17:50:21.367963 19372] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/stats.lock
+[2021-12-20T17:50:21.390282 15644] Got result name from manifest
+[2021-12-20T17:50:21.390349 15644] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/53b3a7n25jfu3lcdrqavrjoc8hhgk40R
+[2021-12-20T17:50:21.390482 15644] Reading embedded entry #0 .o (7372 bytes)
+[2021-12-20T17:50:21.390499 15644] Writing to static_src\MainProgram.o
+[2021-12-20T17:50:21.391017 15644] Succeeded getting cached result
+[2021-12-20T17:50:21.391070 15644] Result: cache hit (direct)
+[2021-12-20T17:50:21.391268 15644] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/stats.lock
+[2021-12-20T17:50:21.392975 15644] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/stats.lock
+[2021-12-20T17:50:21.398018 4468 ] Got result name from manifest
+[2021-12-20T17:50:21.398103 4468 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/0/d0smne994ml6n93valjgkti5m73sjdqR
+[2021-12-20T17:50:21.398285 4468 ] Reading embedded entry #0 .o (5235 bytes)
+[2021-12-20T17:50:21.398304 4468 ] Writing to static_src\CompiledCellType.o
+[2021-12-20T17:50:21.398903 4468 ] Succeeded getting cached result
+[2021-12-20T17:50:21.398964 4468 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.399198 4468 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/0/stats.lock
+[2021-12-20T17:50:21.400954 4468 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/0/stats.lock
+[2021-12-20T17:50:21.500769 7408 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) compression = true
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) debug = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) disable = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.500769 7408 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) path = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) recache = false
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) stats = true
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.500769 7408 ] Config: (default) umask = 
+[2021-12-20T17:50:21.500924 7408 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-12-20T17:50:21.500974 7408 ] Hostname: unknown
+[2021-12-20T17:50:21.500985 7408 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.500991 7408 ] Compiler type: gcc
+[2021-12-20T17:50:21.501251 7408 ] Source file: static_src\CompiledFunctionType.c
+[2021-12-20T17:50:21.501262 7408 ] Object file: static_src\CompiledFunctionType.o
+[2021-12-20T17:50:21.501337 7408 ] Trying direct lookup
+[2021-12-20T17:50:21.501539 7408 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/3/fbdg4amckjno775h7g015rc0ik0u3kkM
+[2021-12-20T17:50:21.529166 1992 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) compression = true
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) debug = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) disable = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.529166 1992 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) path = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) recache = false
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) stats = true
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.529166 1992 ] Config: (default) umask = 
+[2021-12-20T17:50:21.529296 1992 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-12-20T17:50:21.529346 1992 ] Hostname: unknown
+[2021-12-20T17:50:21.529357 1992 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.529365 1992 ] Compiler type: gcc
+[2021-12-20T17:50:21.529606 1992 ] Source file: static_src\CompiledGeneratorType.c
+[2021-12-20T17:50:21.529618 1992 ] Object file: static_src\CompiledGeneratorType.o
+[2021-12-20T17:50:21.529689 1992 ] Trying direct lookup
+[2021-12-20T17:50:21.529885 1992 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/61g321sqjc5e8679na60kdfcf2hijpiM
+[2021-12-20T17:50:21.541336 12764] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.541336 12764] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) base_dir = 
+[2021-12-20T17:50:21.541336 12764] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.541336 12764] Config: (default) compiler = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.541336 12764] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.541336 12764] Config: (default) compression = true
+[2021-12-20T17:50:21.541336 12764] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.541336 12764] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) debug = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.541336 12764] Config: (default) disable = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) file_clone = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) hard_link = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.541336 12764] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.541336 12764] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.541336 12764] Config: (default) max_files = 0
+[2021-12-20T17:50:21.541336 12764] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.541336 12764] Config: (default) path = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) read_only = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) recache = false
+[2021-12-20T17:50:21.541336 12764] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.541336 12764] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.541336 12764] Config: (default) stats = true
+[2021-12-20T17:50:21.541336 12764] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.541336 12764] Config: (default) umask = 
+[2021-12-20T17:50:21.541517 12764] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-12-20T17:50:21.541585 12764] Hostname: unknown
+[2021-12-20T17:50:21.541602 12764] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.541613 12764] Compiler type: gcc
+[2021-12-20T17:50:21.541961 12764] Source file: static_src\InspectPatcher.c
+[2021-12-20T17:50:21.541978 12764] Object file: static_src\InspectPatcher.o
+[2021-12-20T17:50:21.542080 12764] Trying direct lookup
+[2021-12-20T17:50:21.542300 12764] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/1/1cb3lnmh4gitg4b0p21f6u6dif3uvecM
+[2021-12-20T17:50:21.546208 7408 ] Got result name from manifest
+[2021-12-20T17:50:21.546277 7408 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/3ddkhgo4d0id4uvn5s6q582a9isb8mqR
+[2021-12-20T17:50:21.546569 7408 ] Reading embedded entry #0 .o (821680 bytes)
+[2021-12-20T17:50:21.546585 7408 ] Writing to static_src\CompiledFunctionType.o
+[2021-12-20T17:50:21.549324 7408 ] Succeeded getting cached result
+[2021-12-20T17:50:21.549491 7408 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.549738 7408 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/stats.lock
+[2021-12-20T17:50:21.551802 7408 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/stats.lock
+[2021-12-20T17:50:21.560220 8728 ] === CCACHE 4.3 STARTED =========================================
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) absolute_paths_in_stderr = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) base_dir = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (environment) cache_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) compiler = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) compiler_check = mtime
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) compiler_type = auto
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) compression = true
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) compression_level = 0
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) cpp_extension = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) debug = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) debug_dir = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) depend_mode = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) direct_mode = true
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) disable = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) extra_files_to_hash = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) file_clone = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) hard_link = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) hash_dir = true
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) ignore_headers_in_manifest = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) ignore_options = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) inode_cache = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) keep_comments_cpp = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) limit_multiple = 0.8
+[2021-12-20T17:50:21.560220 8728 ] Config: (environment) log_file = C:\Users\besbe\OneDrive\Documents\GitHub\keyLogger\logger.build\ccache-14816.txt
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) max_files = 0
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) max_size = 5.0G
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) path = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) pch_external_checksum = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) prefix_command = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) prefix_command_cpp = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) read_only = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) read_only_direct = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) recache = false
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) run_second_cpp = true
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) sloppiness = 
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) stats = true
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) temporary_dir = C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2021-12-20T17:50:21.560220 8728 ] Config: (default) umask = 
+[2021-12-20T17:50:21.560360 8728 ] Command line: C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\besbe\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Python39\include -I. -IC:\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-12-20T17:50:21.560420 8728 ] Hostname: unknown
+[2021-12-20T17:50:21.560433 8728 ] Working directory: C:/Users/besbe/OneDrive/Documents/GitHub/keyLogger/logger.build
+[2021-12-20T17:50:21.560441 8728 ] Compiler type: gcc
+[2021-12-20T17:50:21.560745 8728 ] Source file: static_src\MetaPathBasedLoader.c
+[2021-12-20T17:50:21.560759 8728 ] Object file: static_src\MetaPathBasedLoader.o
+[2021-12-20T17:50:21.560837 8728 ] Trying direct lookup
+[2021-12-20T17:50:21.561044 8728 ] Looking for result name in C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/f/497onvhjn0fpreaucekgsde2k2ov1tsM
+[2021-12-20T17:50:21.569080 1992 ] Got result name from manifest
+[2021-12-20T17:50:21.569151 1992 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/6/eefksef06rs1d10uiu2f031uass1ca8R
+[2021-12-20T17:50:21.569510 1992 ] Reading embedded entry #0 .o (99590 bytes)
+[2021-12-20T17:50:21.569535 1992 ] Writing to static_src\CompiledGeneratorType.o
+[2021-12-20T17:50:21.570142 1992 ] Succeeded getting cached result
+[2021-12-20T17:50:21.570187 1992 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.570360 1992 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/6/stats.lock
+[2021-12-20T17:50:21.572245 1992 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/6/stats.lock
+[2021-12-20T17:50:21.586161 12764] Got result name from manifest
+[2021-12-20T17:50:21.586228 12764] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/6/f0p24uasab4d8onub8i0o8008guvcscR
+[2021-12-20T17:50:21.586443 12764] Reading embedded entry #0 .o (10086 bytes)
+[2021-12-20T17:50:21.586459 12764] Writing to static_src\InspectPatcher.o
+[2021-12-20T17:50:21.586911 12764] Succeeded getting cached result
+[2021-12-20T17:50:21.586942 12764] Result: cache hit (direct)
+[2021-12-20T17:50:21.587128 12764] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/6/stats.lock
+[2021-12-20T17:50:21.588660 12764] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/6/stats.lock
+[2021-12-20T17:50:21.598522 8728 ] Got result name from manifest
+[2021-12-20T17:50:21.598672 8728 ] Reading result C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/5f0cp5ltqjjuo3hbh42diires8ks0rmR
+[2021-12-20T17:50:21.598867 8728 ] Reading embedded entry #0 .o (23687 bytes)
+[2021-12-20T17:50:21.598887 8728 ] Writing to static_src\MetaPathBasedLoader.o
+[2021-12-20T17:50:21.599531 8728 ] Succeeded getting cached result
+[2021-12-20T17:50:21.599568 8728 ] Result: cache hit (direct)
+[2021-12-20T17:50:21.599771 8728 ] Acquired lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/stats.lock
+[2021-12-20T17:50:21.601171 8728 ] Releasing lock C:\Users\besbe\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/stats.lock
