@@ -5,9 +5,9 @@ import base64
 
 
 #set the gmail credentiels of the sender and the mail of the reciever
-gmail_user = 'alaa.besbes@gmail.com'
-gmail_password = 'RLstdar7'
-gmail_receiver='besbesalaa@gmail.com'
+gmail_user = ''
+gmail_password = ''
+gmail_receiver=''
 sent_from = gmail_user
 to = [gmail_user, gmail_receiver]
 def sendMail():
